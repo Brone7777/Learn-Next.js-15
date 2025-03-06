@@ -1,6 +1,6 @@
 const loading = () => {
   return (
-    <div>loading globals...</div>
+    <div className="justify-center">loading globals...</div>
   )
 }
 export default loading

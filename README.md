@@ -1,4 +1,4 @@
-## Step 1 Install จ้า (roitai คือชื่อโฟลเดอร์)
+## Step 1 Install จ้า (roitai คือชื่อโฟลเดอร์) เอกสารจาก roitai ใช้ในการเรียน
 
 ```sh
 npx create-next-app@latest roitai
